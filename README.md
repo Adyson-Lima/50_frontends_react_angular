@@ -4,4 +4,19 @@
 
 Este repositório registra o desenvolvimento de 50 frontends feitos em React e Angular.
 
+# Frontends React.
+- <a href="">frontend 01</a> - <a href="">frontend 02</a> - <a href="">frontend 03</a> - <a href="">frontend 04</a> - <a href="">frontend 05</a>
+- <a href="">frontend 06</a> - <a href="">frontend 07</a> - <a href="">frontend 08</a> - <a href="">frontend 09</a> - <a href="">frontend 10</a>
+- <a href="">frontend 11</a> - <a href="">frontend 12</a> - <a href="">frontend 13</a> - <a href="">frontend 14</a> - <a href="">frontend 15</a>
+- <a href="">frontend 16</a> - <a href="">frontend 17</a> - <a href="">frontend 18</a> - <a href="">frontend 19</a> - <a href="">frontend 20</a>
+- <a href="">frontend 21</a> - <a href="">frontend 22</a> - <a href="">frontend 23</a> - <a href="">frontend 24</a> - <a href="">frontend 25</a>
+
+# Frontends Angular.
+
+- <a href="">frontend 26</a> - <a href="">frontend 27</a> - <a href="">frontend 28</a> - <a href="">frontend 29</a> - <a href="">frontend 30</a>
+- <a href="">frontend 31</a> - <a href="">frontend 32</a> - <a href="">frontend 33</a> - <a href="">frontend 34</a> - <a href="">frontend 35</a>
+- <a href="">frontend 36</a> - <a href="">frontend 37</a> - <a href="">frontend 38</a> - <a href="">frontend 39</a> - <a href="">frontend 40</a>
+- <a href="">frontend 41</a> - <a href="">frontend 42</a> - <a href="">frontend 43</a> - <a href="">frontend 44</a> - <a href="">frontend 45</a>
+- <a href="">frontend 46</a> - <a href="">frontend 47</a> - <a href="">frontend 48</a> - <a href="">frontend 49</a> - <a href="">frontend 50</a>
+
 
